@@ -10,6 +10,7 @@ def snake_it_up(string)
     string
     binding.pry
     puts 'jekko'
+  end
 end
 
 
