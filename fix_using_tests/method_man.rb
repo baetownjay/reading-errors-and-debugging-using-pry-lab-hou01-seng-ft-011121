@@ -7,3 +7,5 @@ end
 def play_game(player2)
   "#{player1} is better than #{player2}"
 end
+
+puts 'hello you made it'
