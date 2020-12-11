@@ -1,7 +1,7 @@
 # don't forget to add: require 'pry'
 require.pry
 
-def snake_it_up(string)
+def snake_it_up(string= 'helle')
   if string[0] == "s"
     10 * "s" + string
     binding.pry
@@ -13,4 +13,4 @@ def snake_it_up(string)
   puts 'hello'
 end
 
-snake_it_up('hello', 'jason')
+snake_it_up
