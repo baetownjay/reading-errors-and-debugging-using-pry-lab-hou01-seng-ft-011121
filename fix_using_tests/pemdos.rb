@@ -13,4 +13,4 @@ def snake_it_up(string)
   puts 'hello'
 end
 
-snake_it_up
+snake_it_up('jason')
